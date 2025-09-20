@@ -1,0 +1,37 @@
+[
+  { "id": "en-birthday-001", "text": "Wishing you a day full of love and laughter!", "tags": ["birthday","cheerful"], "length": 46, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-002", "text": "Another year older, wiser, and amazing!", "tags": ["birthday","fun"], "length": 41, "mood": "joyful", "lang": "en" },
+  { "id": "en-birthday-003", "text": "Cake, candles, and endless smiles – happy birthday!", "tags": ["birthday","fun"], "length": 50, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-004", "text": "May your day be as special as you are.", "tags": ["birthday","sweet"], "length": 40, "mood": "cheerful", "lang": "en" },
+  { "id": "en-birthday-005", "text": "Celebrate big and laugh even bigger!", "tags": ["birthday","fun"], "length": 38, "mood": "joyful", "lang": "en" },
+
+  { "id": "en-birthday-006", "text": "Birthdays are nature’s way of telling us to eat cake.", "tags": ["birthday","funny"], "length": 55, "mood": "fun", "lang": "en" },
+  { "id": "en-birthday-007", "text": "Cheers to another year of awesomeness!", "tags": ["birthday"], "length": 41, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-008", "text": "May all your wishes come true today.", "tags": ["birthday","sweet"], "length": 38, "mood": "hopeful", "lang": "en" },
+  { "id": "en-birthday-009", "text": "Happiest birthday to someone extraordinary!", "tags": ["birthday"], "length": 41, "mood": "joyful", "lang": "en" },
+  { "id": "en-birthday-010", "text": "Smiles, hugs, and a cake for you today!", "tags": ["birthday","fun"], "length": 42, "mood": "happy", "lang": "en" },
+
+  { "id": "en-birthday-011", "text": "Wishing you oceans of happiness and love.", "tags": ["birthday","sweet"], "length": 44, "mood": "cheerful", "lang": "en" },
+  { "id": "en-birthday-012", "text": "Your day, your way – happy birthday!", "tags": ["birthday"], "length": 36, "mood": "fun", "lang": "en" },
+  { "id": "en-birthday-013", "text": "Birthdays are the universe’s way of celebrating you.", "tags": ["birthday","poetic"], "length": 50, "mood": "joyful", "lang": "en" },
+  { "id": "en-birthday-014", "text": "Another year, another reason to shine.", "tags": ["birthday","motivational"], "length": 39, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-015", "text": "Happiness is having a birthday like yours!", "tags": ["birthday"], "length": 40, "mood": "joyful", "lang": "en" },
+
+  { "id": "en-birthday-016", "text": "Time to party and make memories!", "tags": ["birthday","fun"], "length": 34, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-017", "text": "Eat, laugh, and enjoy your special day.", "tags": ["birthday","fun"], "length": 38, "mood": "joyful", "lang": "en" },
+  { "id": "en-birthday-018", "text": "A toast to your happiness and health!", "tags": ["birthday"], "length": 36, "mood": "cheerful", "lang": "en" },
+  { "id": "en-birthday-019", "text": "Happiest birthday wishes to you, my friend!", "tags": ["birthday","friendship"], "length": 42, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-020", "text": "May your year ahead be full of laughter.", "tags": ["birthday","sweet"], "length": 40, "mood": "joyful", "lang": "en" },
+
+  { "id": "en-birthday-021", "text": "Candles, cake, and endless joy – enjoy!", "tags": ["birthday"], "length": 38, "mood": "fun", "lang": "en" },
+  { "id": "en-birthday-022", "text": "Life’s too short – celebrate today!", "tags": ["birthday","fun"], "length": 34, "mood": "joyful", "lang": "en" },
+  { "id": "en-birthday-023", "text": "Make a wish and keep dreaming big.", "tags": ["birthday","motivational"], "length": 38, "mood": "hopeful", "lang": "en" },
+  { "id": "en-birthday-024", "text": "Birthdays are magic, enjoy every moment.", "tags": ["birthday","poetic"], "length": 42, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-025", "text": "Smiles, hugs, and sweet memories await.", "tags": ["birthday"], "length": 40, "mood": "joyful", "lang": "en" },
+
+  { "id": "en-birthday-026", "text": "May laughter and love follow you always.", "tags": ["birthday","sweet"], "length": 41, "mood": "cheerful", "lang": "en" },
+  { "id": "en-birthday-027", "text": "Celebrate your awesomeness today!", "tags": ["birthday","fun"], "length": 34, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-028", "text": "A day full of love and surprises awaits.", "tags": ["birthday"], "length": 42, "mood": "joyful", "lang": "en" },
+  { "id": "en-birthday-029", "text": "Happiest birthday to someone special!", "tags": ["birthday"], "length": 38, "mood": "happy", "lang": "en" },
+  { "id": "en-birthday-030", "text": "May your life shine brighter every year.", "tags": ["birthday","motivational"], "length": 42, "mood": "hopeful", "lang": "en" }
+]

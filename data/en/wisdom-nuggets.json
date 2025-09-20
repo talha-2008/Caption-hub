@@ -1,0 +1,29 @@
+[
+  { "id": "en-wisdom-001", "text": "Knowledge speaks, but wisdom listens.", "tags": ["wisdom","deep"], "length": 38, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-wisdom-002", "text": "Patience is the companion of wisdom.", "tags": ["wisdom"], "length": 37, "mood": "reflective", "lang": "en" },
+  { "id": "en-wisdom-003", "text": "Learn from yesterday, live for today, hope for tomorrow.", "tags": ["wisdom","motivational"], "length": 57, "mood": "inspired", "lang": "en" },
+  { "id": "en-wisdom-004", "text": "Simplicity is the ultimate sophistication.", "tags": ["wisdom","philosophy"], "length": 44, "mood": "reflective", "lang": "en" },
+  { "id": "en-wisdom-005", "text": "Courage is knowing what not to fear.", "tags": ["wisdom","motivational"], "length": 42, "mood": "inspired", "lang": "en" },
+
+  { "id": "en-wisdom-006", "text": "Experience is the teacher of all things.", "tags": ["wisdom"], "length": 42, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-wisdom-007", "text": "Mistakes are the portals of discovery.", "tags": ["wisdom","inspired"], "length": 42, "mood": "reflective", "lang": "en" },
+  { "id": "en-wisdom-008", "text": "Knowledge is power, but wisdom is peace.", "tags": ["wisdom","philosophy"], "length": 44, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-wisdom-009", "text": "The best way out is always through.", "tags": ["wisdom","motivational"], "length": 36, "mood": "inspired", "lang": "en" },
+  { "id": "en-wisdom-010", "text": "Time tests the strength of character.", "tags": ["wisdom","deep"], "length": 38, "mood": "reflective", "lang": "en" },
+
+  { "id": "en-wisdom-011", "text": "Wisdom begins in wonder.", "tags": ["wisdom","philosophy"], "length": 29, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-wisdom-012", "text": "The quieter you become, the more you can hear.", "tags": ["wisdom","deep"], "length": 47, "mood": "reflective", "lang": "en" },
+  { "id": "en-wisdom-013", "text": "A wise man learns more from his enemies than a fool from his friends.", "tags": ["wisdom","philosophy"], "length": 64, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-wisdom-014", "text": "Knowledge is of no value unless you put it into practice.", "tags": ["wisdom","motivational"], "length": 60, "mood": "inspired", "lang": "en" },
+  { "id": "en-wisdom-015", "text": "Sow a thought, reap an action; sow an action, reap a habit.", "tags": ["wisdom","philosophy"], "length": 58, "mood": "reflective", "lang": "en" },
+
+  { "id": "en-wisdom-016", "text": "Do not seek to follow in the footsteps of others.", "tags": ["wisdom","motivational"], "length": 52, "mood": "inspired", "lang": "en" },
+  { "id": "en-wisdom-017", "text": "To know oneself is the beginning of all wisdom.", "tags": ["wisdom","philosophy"], "length": 52, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-wisdom-018", "text": "Small deeds done are better than great deeds planned.", "tags": ["wisdom","motivational"], "length": 56, "mood": "inspired", "lang": "en" },
+  { "id": "en-wisdom-019", "text": "The wise man does at once what the fool does finally.", "tags": ["wisdom"], "length": 50, "mood": "reflective", "lang": "en" },
+  { "id": "en-wisdom-020", "text": "Understanding is deeper than knowledge.", "tags": ["wisdom","philosophy"], "length": 38, "mood": "thoughtful", "lang": "en" },
+
+  { "id": "en-wisdom-021", "text": "He who asks a question is a fool for five minutes.", "tags": ["wisdom","humor"], "length": 50, "mood": "light", "lang": "en" },
+  { "id": "en-wisdom-022", "text": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.", "tags": ["wisdom","deep"], "length": 72, "mood": "reflective", "lang": "en" },
+    { "id": "en-wisdom-023", "text": "The more I read, the more I acquire, the more certain I am that I know nothing.", "tags": ["wisdom","philosophy"], "length": 80, "mood": "thoughtful", "lang": "en" }
+]

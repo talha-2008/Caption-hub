@@ -1,0 +1,37 @@
+[
+  { "id": "en-emotional-001", "text": "Some memories never fade, they linger.", "tags": ["emotional","deep"], "length": 43, "mood": "nostalgic", "lang": "en" },
+  { "id": "en-emotional-002", "text": "Tears are words the heart can’t express.", "tags": ["emotional","poetic"], "length": 44, "mood": "sad", "lang": "en" },
+  { "id": "en-emotional-003", "text": "The hardest battles are fought in silence.", "tags": ["emotional","deep"], "length": 46, "mood": "serious", "lang": "en" },
+  { "id": "en-emotional-004", "text": "I smile to hide the storm inside.", "tags": ["emotional"], "length": 34, "mood": "melancholy", "lang": "en" },
+  { "id": "en-emotional-005", "text": "Love can heal, or it can hurt deeply.", "tags": ["emotional","love"], "length": 40, "mood": "heartfelt", "lang": "en" },
+
+  { "id": "en-emotional-006", "text": "Sometimes letting go is the only option.", "tags": ["emotional","sad"], "length": 41, "mood": "serious", "lang": "en" },
+  { "id": "en-emotional-007", "text": "I am stronger than my fears.", "tags": ["emotional","inspired"], "length": 32, "mood": "hopeful", "lang": "en" },
+  { "id": "en-emotional-008", "text": "Empty rooms echo louder than words.", "tags": ["emotional","poetic"], "length": 41, "mood": "melancholy", "lang": "en" },
+  { "id": "en-emotional-009", "text": "Pain is temporary, memories last forever.", "tags": ["emotional"], "length": 42, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-emotional-010", "text": "Some hearts never truly heal.", "tags": ["emotional","sad"], "length": 32, "mood": "melancholy", "lang": "en" },
+
+  { "id": "en-emotional-011", "text": "I keep quiet, but my soul screams.", "tags": ["emotional","deep"], "length": 38, "mood": "serious", "lang": "en" },
+  { "id": "en-emotional-012", "text": "Broken pieces still shine under the light.", "tags": ["emotional","hope"], "length": 43, "mood": "hopeful", "lang": "en" },
+  { "id": "en-emotional-013", "text": "Memories are bittersweet, like autumn rain.", "tags": ["emotional","poetic"], "length": 45, "mood": "melancholy", "lang": "en" },
+  { "id": "en-emotional-014", "text": "Every goodbye leaves a shadow behind.", "tags": ["emotional","sad"], "length": 41, "mood": "heartfelt", "lang": "en" },
+  { "id": "en-emotional-015", "text": "I laugh, but my heart cries softly.", "tags": ["emotional","deep"], "length": 38, "mood": "melancholy", "lang": "en" },
+
+  { "id": "en-emotional-016", "text": "Hope survives even in broken hearts.", "tags": ["emotional","hope"], "length": 38, "mood": "hopeful", "lang": "en" },
+  { "id": "en-emotional-017", "text": "Some nights are colder than others.", "tags": ["emotional","poetic"], "length": 38, "mood": "melancholy", "lang": "en" },
+  { "id": "en-emotional-018", "text": "Love lost teaches lessons that linger.", "tags": ["emotional","love"], "length": 40, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-emotional-019", "text": "Silence can scream louder than words.", "tags": ["emotional","deep"], "length": 38, "mood": "serious", "lang": "en" },
+  { "id": "en-emotional-020", "text": "Hearts break quietly, yet the pain is loud.", "tags": ["emotional","sad"], "length": 43, "mood": "heartfelt", "lang": "en" },
+
+  { "id": "en-emotional-021", "text": "Tears fall, but hope rises again.", "tags": ["emotional","hope"], "length": 36, "mood": "hopeful", "lang": "en" },
+  { "id": "en-emotional-022", "text": "Some wounds are invisible but real.", "tags": ["emotional","deep"], "length": 36, "mood": "serious", "lang": "en" },
+  { "id": "en-emotional-023", "text": "I carry the weight of words unsaid.", "tags": ["emotional"], "length": 39, "mood": "melancholy", "lang": "en" },
+  { "id": "en-emotional-024", "text": "Hearts whisper what lips cannot speak.", "tags": ["emotional","poetic"], "length": 41, "mood": "soft", "lang": "en" },
+  { "id": "en-emotional-025", "text": "Every scar has a story.", "tags": ["emotional","deep"], "length": 27, "mood": "thoughtful", "lang": "en" },
+
+  { "id": "en-emotional-026", "text": "Pain shapes us into stronger beings.", "tags": ["emotional","hope"], "length": 36, "mood": "inspired", "lang": "en" },
+  { "id": "en-emotional-027", "text": "Love leaves footprints on our soul.", "tags": ["emotional","love"], "length": 36, "mood": "heartfelt", "lang": "en" },
+  { "id": "en-emotional-028", "text": "Some memories hurt, some heal.", "tags": ["emotional"], "length": 32, "mood": "reflective", "lang": "en" },
+  { "id": "en-emotional-029", "text": "I hide my tears behind a smile.", "tags": ["emotional","deep"], "length": 36, "mood": "melancholy", "lang": "en" },
+  { "id": "en-emotional-030", "text": "Loneliness teaches the value of connection.", "tags": ["emotional","philosophy"], "length": 43, "mood": "thoughtful", "lang": "en" }
+]

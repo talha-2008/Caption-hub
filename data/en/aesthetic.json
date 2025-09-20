@@ -1,0 +1,37 @@
+[
+  { "id": "en-aesthetic-001", "text": "Lost in the right direction.", "tags": ["aesthetic","short"], "length": 32, "mood": "calm", "lang": "en" },
+  { "id": "en-aesthetic-002", "text": "Sunkissed and moonlit.", "tags": ["aesthetic"], "length": 27, "mood": "serene", "lang": "en" },
+  { "id": "en-aesthetic-003", "text": "Chasing sunsets, collecting moments.", "tags": ["aesthetic","nature"], "length": 41, "mood": "peaceful", "lang": "en" },
+  { "id": "en-aesthetic-004", "text": "Soft hearts under tough skins.", "tags": ["aesthetic","deep"], "length": 38, "mood": "gentle", "lang": "en" },
+  { "id": "en-aesthetic-005", "text": "Ocean eyes and clouded skies.", "tags": ["aesthetic","poetic"], "length": 38, "mood": "dreamy", "lang": "en" },
+
+  { "id": "en-aesthetic-006", "text": "Bloom where you are planted.", "tags": ["aesthetic","inspired"], "length": 35, "mood": "hopeful", "lang": "en" },
+  { "id": "en-aesthetic-007", "text": "Whispers of the night sky.", "tags": ["aesthetic","calm"], "length": 35, "mood": "serene", "lang": "en" },
+  { "id": "en-aesthetic-008", "text": "Golden hour, golden soul.", "tags": ["aesthetic"], "length": 34, "mood": "warm", "lang": "en" },
+  { "id": "en-aesthetic-009", "text": "Dreaming in pastel shades.", "tags": ["aesthetic"], "length": 36, "mood": "soft", "lang": "en" },
+  { "id": "en-aesthetic-010", "text": "Petals falling like time.", "tags": ["aesthetic","poetic"], "length": 33, "mood": "calm", "lang": "en" },
+
+  { "id": "en-aesthetic-011", "text": "Silence is also music.", "tags": ["aesthetic","deep"], "length": 31, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-aesthetic-012", "text": "Raindrops tracing city lights.", "tags": ["aesthetic"], "length": 37, "mood": "calm", "lang": "en" },
+  { "id": "en-aesthetic-013", "text": "Candlelight and chaos.", "tags": ["aesthetic","contrast"], "length": 31, "mood": "moody", "lang": "en" },
+  { "id": "en-aesthetic-014", "text": "Eyes like galaxies, thoughts like oceans.", "tags": ["aesthetic","deep"], "length": 47, "mood": "dreamy", "lang": "en" },
+  { "id": "en-aesthetic-015", "text": "Shadows dancing with light.", "tags": ["aesthetic","poetic"], "length": 36, "mood": "calm", "lang": "en" },
+
+  { "id": "en-aesthetic-016", "text": "Half coffee, half poetry.", "tags": ["aesthetic"], "length": 33, "mood": "chill", "lang": "en" },
+  { "id": "en-aesthetic-017", "text": "Wildflowers in empty fields.", "tags": ["aesthetic","nature"], "length": 38, "mood": "peaceful", "lang": "en" },
+  { "id": "en-aesthetic-018", "text": "Soft rain, softer thoughts.", "tags": ["aesthetic"], "length": 35, "mood": "calm", "lang": "en" },
+  { "id": "en-aesthetic-019", "text": "Collecting stars in silence.", "tags": ["aesthetic"], "length": 37, "mood": "serene", "lang": "en" },
+  { "id": "en-aesthetic-020", "text": "Painting skies with dreams.", "tags": ["aesthetic"], "length": 36, "mood": "hopeful", "lang": "en" },
+
+  { "id": "en-aesthetic-021", "text": "The moon taught me consistency.", "tags": ["aesthetic","deep"], "length": 39, "mood": "thoughtful", "lang": "en" },
+  { "id": "en-aesthetic-022", "text": "A little chaos adds beauty.", "tags": ["aesthetic","philosophy"], "length": 37, "mood": "artsy", "lang": "en" },
+  { "id": "en-aesthetic-023", "text": "Serenity in the smallest things.", "tags": ["aesthetic"], "length": 39, "mood": "peaceful", "lang": "en" },
+  { "id": "en-aesthetic-024", "text": "Fragments of sunlight in my soul.", "tags": ["aesthetic","poetic"], "length": 44, "mood": "dreamy", "lang": "en" },
+  { "id": "en-aesthetic-025", "text": "Every scar is a brushstroke.", "tags": ["aesthetic","deep"], "length": 37, "mood": "moody", "lang": "en" },
+
+  { "id": "en-aesthetic-026", "text": "Clouds carry stories too.", "tags": ["aesthetic","poetic"], "length": 33, "mood": "soft", "lang": "en" },
+  { "id": "en-aesthetic-027", "text": "Butterflies are proof of patience.", "tags": ["aesthetic","nature"], "length": 42, "mood": "gentle", "lang": "en" },
+  { "id": "en-aesthetic-028", "text": "I write in sunsets and silences.", "tags": ["aesthetic"], "length": 39, "mood": "calm", "lang": "en" },
+  { "id": "en-aesthetic-029", "text": "Beauty in broken pieces.", "tags": ["aesthetic","deep"], "length": 33, "mood": "moody", "lang": "en" },
+  { "id": "en-aesthetic-030", "text": "Echoes of the universe in small details.", "tags": ["aesthetic","philosophy"], "length": 49, "mood": "thoughtful", "lang": "en" }
+]
