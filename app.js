@@ -6,16 +6,21 @@
 /* CONFIG */
 const CONFIG = {
   categories: [
+    { id: 'wife-quotes', label_en:'Wife quotes', label_bn:'স্ত্রীর জন্য উক্তি' },
+    { id: 'couple-goals', label_en:'Couple goals', label_bn:'কাপল গোলস' },
     { id: 'love-messages', label_en:'Love messages', label_bn:'ভালোবাসার বার্তা' },
     { id: 'fb-story-captions', label_en:'FB story captions', label_bn:'FB স্টোরি ক্যাপশন' },
+    { id: 'selfie-captions', label_en:'Selfie captions', label_bn:'সেলফি ক্যাপশন' },
     { id: 'post-caption-ideas', label_en:'Post caption ideas', label_bn:'পোস্ট ক্যাপশন আইডিয়া' },
     { id: 'motivational', label_en:'Motivational quotes', label_bn:'অনুপ্রেরণামূলক' },
     { id: 'funny-captions', label_en:'Funny captions', label_bn:'হাস্যকর ক্যাপশন' },
+    { id: 'song-lyrics', label_en:'Song lyrics', label_bn:'গানের লিরিক্স' },
     { id: 'aesthetic-lines', label_en:'Aesthetic lines', label_bn:'সুন্দর লাইন' },
     { id: 'emotional-deep', label_en:'Emotional/deep', label_bn:'আবেগপূর্ণ/গভীর' },
     { id: 'birthday-wishes', label_en:'Birthday wishes', label_bn:'জন্মদিনের শুভেচ্ছা' },
     { id: 'wisdom-nuggets', label_en:'Wisdom nuggets', label_bn:'জ্ঞানকণিকা' },
     { id: 'daily-affirmations', label_en:'Daily affirmations', label_bn:'দৈনিক সংকল্প' },
+    { id: 'riddles', label_en:'Riddles', label_bn:'ধাঁধা' },
     { id: 'travel', label_en:'Travel', label_bn:'ভ্রমণ' },
     { id: 'friendship', label_en:'Friendship', label_bn:'বন্ধুত্ব' },
     { id: 'food', label_en:'Food', label_bn:'খাবার' }
